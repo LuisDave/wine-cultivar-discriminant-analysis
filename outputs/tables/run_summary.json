@@ -1,0 +1,36 @@
+{
+  "audit": {
+    "rows": 178,
+    "columns": 14,
+    "predictors": 13,
+    "missing_cells": 0,
+    "duplicate_rows": 0,
+    "classes": 3,
+    "class_counts": {
+      "1": 59,
+      "2": 71,
+      "3": 48
+    }
+  },
+  "lda": {
+    "original_dimensions": 13,
+    "reduced_dimensions": 2,
+    "explained_discriminant_variance": [
+      0.6874788878860784,
+      0.3125211121139216
+    ],
+    "cumulative": 1.0
+  },
+  "holdout": {
+    "accuracy": 1.0,
+    "balanced_accuracy": 1.0,
+    "macro_f1": 1.0,
+    "n_train": 133,
+    "n_test": 45
+  },
+  "cross_validation": {
+    "folds": 10,
+    "accuracy_mean": 0.9941176470588236,
+    "accuracy_std": 0.018601633295108118
+  }
+}

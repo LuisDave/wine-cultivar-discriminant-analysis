@@ -1,0 +1,2 @@
+rows,columns,predictors,missing_cells,duplicate_rows,classes,class_counts
+178,14,13,0,0,3,"{'1': 59, '2': 71, '3': 48}"

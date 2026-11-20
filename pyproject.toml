@@ -1,0 +1,9 @@
+[project]
+name = "wine-cultivar-discriminant-analysis"
+version = "0.1.0"
+description = "Supervised dimensionality reduction and cultivar discrimination with Linear Discriminant Analysis."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

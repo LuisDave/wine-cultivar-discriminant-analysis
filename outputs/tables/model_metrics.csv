@@ -1,0 +1,2 @@
+accuracy,balanced_accuracy,macro_f1,n_train,n_test,cv_accuracy_mean,cv_accuracy_std,ld1_ratio,ld2_ratio,cumulative_ratio
+1.0,1.0,1.0,133,45,0.9941176470588236,0.018601633295108118,0.6874788878860784,0.3125211121139216,1.0
